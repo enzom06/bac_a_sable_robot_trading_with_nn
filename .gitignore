@@ -1,0 +1,5 @@
+
+*.wav
+data/mini_speech_commands.zip
+data/mini_speech_commands/README.md
+api_var.py

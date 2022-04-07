@@ -1,0 +1,2 @@
+model_checkpoint_path: "nn_rsi_willr_nn_90_60_40_3_proba_model"
+all_model_checkpoint_paths: "nn_rsi_willr_nn_90_60_40_3_proba_model"
